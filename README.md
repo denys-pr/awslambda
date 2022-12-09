@@ -15,7 +15,7 @@ Beginner’s Guide to Writing AWS Lambda Functions in Python
 
 1.  `sam init`
 2.  `sam build`
-3.  `sam deploy --guided`
+3.  `sam deploy --guided` 
 
 ## Deploy and Testing (Key Concepts)
 
